@@ -1,0 +1,22 @@
+Client A 10 3:
+
+Sending data: ping
+Received data: pong
+Sending data: ping
+Received data: pong
+Sending data: ping
+Received data: pong
+
+
+Client B 10 5:
+
+Sending data: ping
+Received data: pong
+Sending data: ping
+Received data: pong
+Sending data: ping
+Received data: pong
+Sending data: ping
+Received data: pong
+Sending data: ping
+Received data: pong
